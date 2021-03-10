@@ -1,0 +1,11 @@
+Ticker,Name,ExchangeCode,ExchangeName,Sector,Industry,InstrumentType,Flag
+RY,Royal Bank of Canada,NYSE,New York Stock Exchange,Financial Services,Banks—Diversified,Equity,1
+RY-T,Royal Bank of Canada [Ry/Pt],NYSE,New York Stock Exchange,,,,0
+RYAM,Rayonier Advanced Materials Inc,NYSE,New York Stock Exchange,Basic Materials,Chemicals,Equity,1
+RYB,Ryb Education Inc Aps,NYSE,New York Stock Exchange,Consumer Defensive,Education & Training Services,Equity,1
+RYCE,Amira Nature Foods Ltd,NYSE,New York Stock Exchange,,,,0
+RYI,Ryerson Holding Corp,NYSE,New York Stock Exchange,Industrials,Metal Fabrication,Equity,1
+RYN,Rayonier Inc REIT,NYSE,New York Stock Exchange,Basic Materials,Lumber & Wood Production,Equity,1
+RZA,Reinsurance Group of America,NYSE,New York Stock Exchange,,,,0
+RZB,Reinsurance Group of America,NYSE,New York Stock Exchange,N/A,N/A,ETF,1
+S,Sprint Corp,NYSE,New York Stock Exchange,Communication Services,Telecom Services,Equity,1

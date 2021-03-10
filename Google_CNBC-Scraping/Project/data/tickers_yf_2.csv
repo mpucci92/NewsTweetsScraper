@@ -1,0 +1,10 @@
+Ticker,Name,ExchangeCode,ExchangeName,Sector,Industry,InstrumentType,Flag
+AAAU,Perth Mint Physical Gold ETF,AMEX,American Stock Exchange,Commodities Precious Metals,Exchange Traded Concepts,ETF,1
+AADR,Advisorshares Dorsey Wright ADR,AMEX,American Stock Exchange,Foreign Large Growth,AdvisorShares,ETF,1
+AAMC,Altisource Asset,AMEX,American Stock Exchange,Financial Services,Asset Management,Equity,1
+AAU,Almaden Minerals,AMEX,American Stock Exchange,Basic Materials,Gold,Equity,1
+ABEQ,Absolute Core Strategy ETF,AMEX,American Stock Exchange,Large Value,Absolute Investment Advisers,ETF,1
+ACES,Alps Clean Energy ETF,AMEX,American Stock Exchange,Equity Energy,ALPS,ETF,1
+ACIO,Aptus Collared Income Opportunity ETF,AMEX,American Stock Exchange,Option Writing,Aptus Capital Advisors,ETF,1
+ACSG,Xtrackers MSCI ACWI Ex USA ESG Leaders,AMEX,American Stock Exchange,Foreign Large Blend,Xtrackers,ETF,1
+ACSI,American Customer Satisfaction Core,AMEX,American Stock Exchange,Large Blend,Exponential ETFs,ETF,1
