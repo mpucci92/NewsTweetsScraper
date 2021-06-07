@@ -28,7 +28,7 @@ def Twitter_ES_logger():
 
 
 if __name__ == '__main__':
-    es_client = Elasticsearch(['35.203.120.124:8607'], http_compress=True, timeout=60)
+    es_client = Elasticsearch([''], http_compress=True, timeout=60)
 
     Twitter_ES_logger()
 
