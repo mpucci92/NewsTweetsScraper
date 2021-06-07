@@ -55,7 +55,7 @@ def Twitterscraper_live_logger():
     logger_twitterscraper_live.info('-------------TWITTER SCRAPER LOGS----------------')
 
 if __name__ == '__main__':
-    es_client = Elasticsearch(['35.203.120.124:8607'], http_compress=True)
+    es_client = Elasticsearch([''], http_compress=True)
 
     data_path = f"/home/learn_compoundguru/Google_CNBC-Scraping/Project/TwitterscraP/data/twitter_raw_live/news_{localtime}.json"
     data_path_process = "/home/learn_compoundguru/Google_CNBC-Scraping/Project/TwitterscraP/data/twitter_raw_live/*.json"
