@@ -23,7 +23,8 @@ localtime = strftime("%Y-%m-%d_%H-%M-%S", localtime())
 
 users = ['CNBC', 'Benzinga', 'Business', 'nytimesbusiness', 'ReutersMoney', 'ReutersBiz','stockhouse',
          'WSJmarkets', 'barronsonline', 'businessinsider', 'Forbes', 'MarketWatch', 'BusinessWire',
-         'CNNBusiness', 'MorningstarInc', 'PRNewswire', 'YahooFinance', 'Deltaone', 'zerohedge']
+         'CNNBusiness', 'MorningstarInc', 'PRNewswire', 'YahooFinance', 'Deltaone', 'zerohedge','crypto', 
+         'ForbesCrypto','BTCTN','CoinMarketCap','cointelegraph','crediblecrypto']
 
 # Settings for twitter tweet preprocessing #
 tc.set_options(tc.OPT.URL, tc.OPT.MENTION, tc.OPT.HASHTAG, tc.OPT.RESERVED, tc.OPT.EMOJI, tc.OPT.SMILEY)
