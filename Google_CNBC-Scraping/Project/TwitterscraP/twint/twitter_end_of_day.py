@@ -9,9 +9,10 @@ date = (datetime.today().strftime('%Y-%m-%d'))
 start_date = ((datetime.fromisoformat(date)) - timedelta(days=2)).strftime('%Y-%m-%d')
 end_date = ((datetime.fromisoformat(date)) + timedelta(days=2)).strftime('%Y-%m-%d')
 
-users = ['CNBC','Benzinga','Business','nytimesbusiness','ReutersMoney','ReutersBiz','stockhouse',
-         'WSJmarkets','barronsonline','businessinsider','Forbes','MarketWatch','BusinessWire',
-         'CNNBusiness','MorningstarInc','PRNewswire','YahooFinance','Deltaone','zerohedge']
+users = ['CNBC', 'Benzinga', 'Business', 'nytimesbusiness', 'ReutersMoney', 'ReutersBiz','stockhouse',
+         'WSJmarkets', 'barronsonline', 'businessinsider', 'Forbes', 'MarketWatch', 'BusinessWire',
+         'CNNBusiness', 'MorningstarInc', 'PRNewswire', 'YahooFinance', 'Deltaone', 'zerohedge','crypto', 
+         'ForbesCrypto','BTCTN','CoinMarketCap','cointelegraph','crediblecrypto']
 
 # Logger for merging data #
 def Twitterscraper_logger():
