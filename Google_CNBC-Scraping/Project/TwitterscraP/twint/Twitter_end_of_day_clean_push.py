@@ -107,10 +107,10 @@ if __name__ == '__main__':
 
         for i in range(len(data)):
             new_items.append({
-                "_index": "tweets",
+                "_index": "tweets",  # Change to news 
                 "_id": hashs[i],
                 "_op_type": "create",
-                "_source": data[i]
+                "_source": data[i]    # clean_tweet(data[i])
             })
 
         # Location to push the Cleaned file too #
